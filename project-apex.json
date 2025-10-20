@@ -1,6 +1,6 @@
 {
 	"DivineInterventionPerkTest": false,
-	"DisableSetMissionCommand": true,
+	"DisableSetMissionCommand": false,
 	"MapHandsToYourself": false,
 	"MapZombies": false,
 	"MapTutorial": false,

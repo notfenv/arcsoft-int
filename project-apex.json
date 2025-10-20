@@ -1,8 +1,9 @@
 {
 	"DivineInterventionPerkTest": false,
-	"DisableSetMissionCommand": true,
+	"DisableSetMissionCommand": false,
 	"MapHandsToYourself": false,
 	"MapZombies": false,
 	"MapTutorial": false,
-	"GunsSA58": false
+	"GunsSA58": false,
+	"EntityInterrogation": false
 }

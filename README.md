@@ -1,2 +1,7 @@
-# ARCSOFT Internal DFFlag Database
-This repository serves as a database joint that ARCSOFT games can pull from. Nothing special!!! <img src="./img/arcsoft.svg" width="10"/>
+# <img src="./img/arcsoft.svg" width="20"/> ARCSOFT Internal FFlag Database 
+
+Nothing to see here!!
+
+(Please consult the coding etiquette document, § "Fast Flags")
+
+<img src="./img/a296da973a6d1d35cad895f5d70b11e5.jpg" width="100"/>

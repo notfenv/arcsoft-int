@@ -1,4 +1,4 @@
-# <img src="./img/arcsoft.svg" width="20"/> ARCSOFT Internal FFlag Database 
+# <img src="./img/arcsoft.svg" width="25"/> ARCSOFT Internal FFlag Database 
 
 Nothing to see here!!
 
